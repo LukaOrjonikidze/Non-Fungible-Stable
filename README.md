@@ -1,4 +1,4 @@
-# NFS Non-Fungible Stable
+# Non-Fungible Stable
 
 The Internet Computer's largest digital marketplace for crypto
 collectibles and non-fungible tokens (NFTs). Buy, sell, and
